@@ -3,9 +3,15 @@
 /*                                                       :::      ::::::::    */
 /*   push_swap.c                                       :+:      :+:    :+:    */
 /*                                                   +:+ +:+         +:+      */
-/*   By: tbiais-l <tbiais-l@student.42.fr>         #+#  +:+       +#+         */
+/*   By: username <username@student.42tokyo.jp>    #+#  +:+       +#+         */
 /*                                               +#+#+#+#+#+   +#+            */
-/*   Created: 2026/11/27 10:05:54 by tbiais-l         #+#    #+#              */
-/*   Updated: 2026/11/27 10:05:55 by tbiais-l        ###   ########.fr        */
+/*   Created: 2026/11/26 16:27:25 by username         #+#    #+#              */
+/*   Updated: 2026/11/27 10:25:25 by username        ###   ########.fr        */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "push_swap.h"
+
+int	main(void)
+{
+}
